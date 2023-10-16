@@ -1,0 +1,15 @@
+#nav{
+	max-width: 1180px;
+	margin: 0 auto;
+}
+.trial{
+	color: white;
+	background-color: Red;
+	text-align: center;
+	margin-right: 15px;
+	border: 1px solid red;
+}
+a:active{
+	background-color: white;
+	color: gray;
+}
